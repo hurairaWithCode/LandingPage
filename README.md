@@ -1,1 +1,2 @@
 I’m thrilled to present a landing page I’ve developed using HTML, CSS, JavaScript, and Bootstrap. This project is fully responsive, ensuring a seamless experience on any device. With a focus on clean design and modern aesthetics, the page features smooth animations and optimized performance, making it both visually appealing and highly functional. Check it out to see how I’ve combined these technologies to create a dynamic, user-friendly web experience!
+![1](https://github.com/user-attachments/assets/4b56e322-1f78-4fa5-a94f-90ee76d5cbcb)
